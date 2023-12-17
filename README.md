@@ -17,4 +17,4 @@ The performance of the digital circuit was evaluated by testing the entire syste
 - White images (all pixels values are 0)
 
 ## 📚 Useful Links
-- [Final Report](https://github.com/priscia99/digital-logic-design-project/blob/main/Report/relazione.pdf) (containing the algorithm, modules, components, datapath and experimental evaluation)
+- [Final Report](https://github.com/priscia99/digital-logic-design-project/blob/main/Report/relazione.pdf) (containing the algorithm, modules, components, datapath and experimental evaluation) 🇮🇹

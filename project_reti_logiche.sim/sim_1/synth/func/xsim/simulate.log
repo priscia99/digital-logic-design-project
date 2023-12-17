@@ -1,0 +1,5 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Failure: Simulation Ended! TEST PASSATO
+Time: 827600 ps  Iteration: 0  Process: /project_tb/test  File: C:/Users/andre/Downloads/tb_2x2.vhd
+$finish called at time : 827600 ps : File "C:/Users/andre/Downloads/tb_2x2.vhd" Line 113
